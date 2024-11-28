@@ -1,4 +1,5 @@
-## Error en la subida de archivos
-Me he equivocado a la hora de editar los archivos con el commit ya que queria eliminar una carpeta que sobraba perohe eliminado los archivos por error, asi que he tenido que resubirlos como he podido. <i>Puedes revisarlo en el historial de commits<i>.
+## Error al subir archivos
 
-Disculpa las molestias.
+Me equivoqué al editar los archivos en el commit, ya que quería eliminar una carpeta sobrante, pero terminé eliminando los archivos por error. Por ello, he tenido que volver a subirlos como he podido. *Puedes revisarlo en el historial de commits.*
+
+Disculpa las molestias. 😓
